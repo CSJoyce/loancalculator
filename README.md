@@ -3,3 +3,4 @@ This is a loan calculator in which you input the type of loan, amount, and loan 
 
 ![](https://github.com/CSJoyce/loancalculator/blob/master/loan%20calculator%201.png)
 ![](https://github.com/CSJoyce/loancalculator/blob/master/loan%20calculator%202%20(1).png)
+![](https://github.com/CSJoyce/loancalculator/blob/master/loan%20calculator%203.png)
